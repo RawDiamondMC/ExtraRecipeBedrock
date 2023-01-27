@@ -1,0 +1,26 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"uuid": "368e6d3b-1a4a-4300-96b2-92e554f075b3",
+		"version": [0, 0, 1],
+		"min_engine_version": [1, 19, 50]
+	},
+	"modules": [{
+		"type": "data",
+		"uuid": "73ad4823-4f52-43bf-8a3b-e1c533487036",
+		"version": [0, 0, 1]
+	}],
+	"dependencies": [{
+		"uuid": "faba50f2-c9a0-4cf0-ae44-8564f9c20866",
+		"version": [0, 0, 1]
+	}],
+	"metadata": {
+		"authors": [
+			"RawDiamondMC"
+		],
+		"license": "MIT",
+		"url": "https://www.mcmod.cn/class/7424.html"
+	}
+}

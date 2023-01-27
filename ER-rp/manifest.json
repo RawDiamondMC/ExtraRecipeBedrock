@@ -1,0 +1,22 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"uuid": "faba50f2-c9a0-4cf0-ae44-8564f9c20866",
+		"version": [0, 0, 1],
+		"min_engine_version": [1, 19, 50]
+	},
+	"modules": [{
+		"type": "resources",
+		"uuid": "969e8018-4449-43d3-8eab-c799afff63fd",
+		"version": [0, 0, 1]
+	}],
+	"metadata": {
+		"authors": [
+			"RawDiamondMC"
+		],
+		"license": "MIT",
+		"url": "https://www.mcmod.cn/class/7424.html"
+	}
+}
