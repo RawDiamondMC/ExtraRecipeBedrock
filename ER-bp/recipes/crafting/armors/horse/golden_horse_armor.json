@@ -1,0 +1,28 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "er:golden_horse_armor"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"  g",
+			"gWg",
+			"ggg"
+		],
+		"key": {
+			"g": {
+				"item": "minecraft:gold_ingot"
+			},
+			"W": {
+				"item": "minecraft:wool"
+			}
+		},
+		"result": {
+			"item": "minecraft:golden_horse_armor",
+			"count": 1
+		}
+	}
+}

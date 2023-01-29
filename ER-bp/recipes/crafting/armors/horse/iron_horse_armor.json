@@ -1,0 +1,28 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "er:iron_horse_armor"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"  i",
+			"iWi",
+			"iii"
+		],
+		"key": {
+			"i": {
+				"item": "minecraft:iron_ingot"
+			},
+			"W": {
+				"item": "minecraft:wool"
+			}
+		},
+		"result": {
+			"item": "minecraft:iron_horse_armor",
+			"count": 1
+		}
+	}
+}

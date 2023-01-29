@@ -1,2 +1,5 @@
 # VS Code插件
 .AddCompLib
+
+# notepad-- 临时文件
+*.swp

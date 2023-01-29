@@ -2,4 +2,4 @@ pack.name=Extra Recipe
 pack.description=Extra Recipe Bedrock Edition Resource Pack Part
 
 # Items
-er.blank=Blank Music Disc
+item.extra_recipe:record_blank=Blank Music Disc
