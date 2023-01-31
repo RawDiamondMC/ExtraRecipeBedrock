@@ -9,6 +9,6 @@ on: push
 
 jobs:
   runs-on: ubuntu-latest
-    steps:
-      - name: pack as zip file
-        run: zip -r ExtraRecipeBedrock.zip ER-bp ER-rp
+  steps:
+    - name: pack as zip file
+      run: zip -r ExtraRecipeBedrock.zip ER-bp ER-rp
