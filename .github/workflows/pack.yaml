@@ -1,9 +1,5 @@
 # workflow的名字
 name: Pack as mcaddon file
-# 作者
-author: RawDiamondMC
-# 描述
-description: 打包成mcaddon文件
 # push的时候build
 on: push
 
