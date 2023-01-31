@@ -8,7 +8,8 @@ description: 打包成mcaddon文件
 on: push
 
 jobs:
-  runs-on: ubuntu-latest
-  steps:
-    - name: pack as zip file
-      run: zip -r ExtraRecipeBedrock.zip ER-bp ER-rp
+  pack:
+    runs-on: ubuntu-latest
+    steps:
+      - name: pack as zip file
+        run: zip -r ExtraRecipeBedrock.zip ER-bp ER-rp
