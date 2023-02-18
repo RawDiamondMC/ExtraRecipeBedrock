@@ -7,5 +7,8 @@ jobs:
   pack:
     runs-on: ubuntu-latest
     steps:
-      - name: pack as zip file
-        run: zip -r ExtraRecipeBedrock.zip ER-bp ER-rp
+      - name: Pack
+        uses: actions/upload-artifact@v3
+        with:
+          name: Artifacts
+          path: build/libs/
